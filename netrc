@@ -1,0 +1,3 @@
+machine api.bitbucket.org
+login BITBUCKET_USERNAME
+password BITBUCKET_APP_PASSWORD
